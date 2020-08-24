@@ -1,0 +1,29 @@
+{
+  "name": "kimothy-bot-discord",
+  "version": "0.0.1",
+  "description": "Kimothy Bot is a multi-function bot that uses the Discord API",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcsantoyo/kimothy-bot-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Kim Santoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcsantoyo/kimothy-bot-discord/issues"
+  },
+  "homepage": "https://github.com/kcsantoyo/kimothy-bot-discord#readme"
+}
